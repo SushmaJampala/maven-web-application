@@ -89,13 +89,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://52.66.148.86:8081/repository/paytm-releases/</url>
+	      <name>Rutika Releases Nexus Repository</name>
+	      <url>http://localhost:8081/repository/Maven-web-application-Releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.66.148.86:8081/repository/paytm-snapshots/</url>
+	      <name>Rutika Snapshot Nexus Repository </name>
+	      <url>http://localhost:8081/repository/Maven-web-application-snaphost/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
